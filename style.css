@@ -1,0 +1,25 @@
+body {
+    background-color: beige;
+}
+
+#title {
+    color: blue;
+    font-weight: bold;
+}
+
+.before_results{
+    font-weight: bold;
+}
+
+#sketch_label{
+    color: red;
+    font-weight: bold;
+}
+
+.results{
+    font-weight: bold;
+}
+
+#show_sketch{
+    float: right;
+}
